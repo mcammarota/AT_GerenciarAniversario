@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Assessment.Dados\Assessment.Dados.csproj" />
+    <ProjectReference Include="..\Assessment.Domain\Assessment.Negocio.csproj" />
+    <ProjectReference Include="..\Assessment_Aplicacao\Assessment_Aplicacao.csproj" />
+  </ItemGroup>
+
+</Project>

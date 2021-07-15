@@ -1,0 +1,44 @@
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.deps.json
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.dll
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csprojAssemblyReference.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfoInputs.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfo.cs
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.dll
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Assessment_CS (mod)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.deps.json
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Assessment_CS (mod)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.dll
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Assessment_CS (mod)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfoInputs.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfo.cs
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.dll
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.deps.json
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.dll
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csprojAssemblyReference.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfoInputs.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfo.cs
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.dll
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.deps.json
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.dll
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csprojAssemblyReference.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfoInputs.cache
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfo.cs
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.dll
+C:\Users\Cammarota\Desktop\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C#\Assessment_CS (mod - alt)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.deps.json
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.dll
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\bin\Debug\netcoreapp3.1\Assessment.Negocio.pdb
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csproj.AssemblyReference.cache
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfoInputs.cache
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.AssemblyInfo.cs
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.csproj.CoreCompileInputs.cache
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.dll
+D:\Infnet\2º Bloco - Desenvolvimento .NET\Desenvolvimento C# (DR1)\Assessment_CS (FINAL)\Assessment.Domain\obj\Debug\netcoreapp3.1\Assessment.Negocio.pdb

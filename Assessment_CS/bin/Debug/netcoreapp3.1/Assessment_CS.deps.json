@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assessment_CS/1.0.0": {
+        "dependencies": {
+          "Assessment.Dados": "1.0.0",
+          "Assessment.Negocio": "1.0.0",
+          "Assessment_Aplicacao": "1.0.0"
+        },
+        "runtime": {
+          "Assessment_CS.dll": {}
+        }
+      },
+      "Assessment.Dados/1.0.0": {
+        "dependencies": {
+          "Assessment.Negocio": "1.0.0"
+        },
+        "runtime": {
+          "Assessment.Dados.dll": {}
+        }
+      },
+      "Assessment.Negocio/1.0.0": {
+        "runtime": {
+          "Assessment.Negocio.dll": {}
+        }
+      },
+      "Assessment_Aplicacao/1.0.0": {
+        "dependencies": {
+          "Assessment.Dados": "1.0.0",
+          "Assessment.Negocio": "1.0.0"
+        },
+        "runtime": {
+          "Assessment_Aplicacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assessment_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment.Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment_Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

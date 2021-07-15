@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cammarota\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cammarota\\.nuget\\packages"
+    ]
+  }
+}
